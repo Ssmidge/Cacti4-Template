@@ -1,5 +1,5 @@
 # Cacti4-Template
-This template is licensed so no using this code without permission
+This project is very old, so it isn't my best work
 
 # People With Permission
 https://github.com/BestUserSH or BestUserSH
